@@ -10,33 +10,73 @@
 
 import { Route as rootRouteImport } from './routes/__root'
 import { Route as IndexRouteImport } from './routes/index'
+import { Route as CustomRouteImport } from './routes/custom'
+import { Route as QuizRouteImport } from './routes/quiz'
+import { Route as RepeatedRouteImport } from './routes/repeated'
+import { Route as SubjectSubjectRouteImport } from './routes/subject.$subject'
 
 const IndexRoute = IndexRouteImport.update({
   id: '/',
   path: '/',
   getParentRoute: () => rootRouteImport,
 } as any)
+const CustomRoute = CustomRouteImport.update({
+  id: '/custom',
+  path: '/custom',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const QuizRoute = QuizRouteImport.update({
+  id: '/quiz',
+  path: '/quiz',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const RepeatedRoute = RepeatedRouteImport.update({
+  id: '/repeated',
+  path: '/repeated',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const SubjectSubjectRoute = SubjectSubjectRouteImport.update({
+  id: '/subject/$subject',
+  path: '/subject/$subject',
+  getParentRoute: () => rootRouteImport,
+} as any)
 
 export interface FileRoutesByFullPath {
   '/': typeof IndexRoute
+  '/custom': typeof CustomRoute
+  '/quiz': typeof QuizRoute
+  '/repeated': typeof RepeatedRoute
+  '/subject/$subject': typeof SubjectSubjectRoute
 }
 export interface FileRoutesByTo {
   '/': typeof IndexRoute
+  '/custom': typeof CustomRoute
+  '/quiz': typeof QuizRoute
+  '/repeated': typeof RepeatedRoute
+  '/subject/$subject': typeof SubjectSubjectRoute
 }
 export interface FileRoutesById {
   __root__: typeof rootRouteImport
   '/': typeof IndexRoute
+  '/custom': typeof CustomRoute
+  '/quiz': typeof QuizRoute
+  '/repeated': typeof RepeatedRoute
+  '/subject/$subject': typeof SubjectSubjectRoute
 }
 export interface FileRouteTypes {
   fileRoutesByFullPath: FileRoutesByFullPath
-  fullPaths: '/'
+  fullPaths: '/' | '/custom' | '/quiz' | '/repeated' | '/subject/$subject'
   fileRoutesByTo: FileRoutesByTo
-  to: '/'
-  id: '__root__' | '/'
+  to: '/' | '/custom' | '/quiz' | '/repeated' | '/subject/$subject'
+  id: '__root__' | '/' | '/custom' | '/quiz' | '/repeated' | '/subject/$subject'
   fileRoutesById: FileRoutesById
 }
 export interface RootRouteChildren {
   IndexRoute: typeof IndexRoute
+  CustomRoute: typeof CustomRoute
+  QuizRoute: typeof QuizRoute
+  RepeatedRoute: typeof RepeatedRoute
+  SubjectSubjectRoute: typeof SubjectSubjectRoute
 }
 
 declare module '@tanstack/react-router' {
@@ -48,11 +88,43 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof IndexRouteImport
       parentRoute: typeof rootRouteImport
     }
+    '/custom': {
+      id: '/custom'
+      path: '/custom'
+      fullPath: '/custom'
+      preLoaderRoute: typeof CustomRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/quiz': {
+      id: '/quiz'
+      path: '/quiz'
+      fullPath: '/quiz'
+      preLoaderRoute: typeof QuizRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/repeated': {
+      id: '/repeated'
+      path: '/repeated'
+      fullPath: '/repeated'
+      preLoaderRoute: typeof RepeatedRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/subject/$subject': {
+      id: '/subject/$subject'
+      path: '/subject/$subject'
+      fullPath: '/subject/$subject'
+      preLoaderRoute: typeof SubjectSubjectRouteImport
+      parentRoute: typeof rootRouteImport
+    }
   }
 }
 
 const rootRouteChildren: RootRouteChildren = {
   IndexRoute: IndexRoute,
+  CustomRoute: CustomRoute,
+  QuizRoute: QuizRoute,
+  RepeatedRoute: RepeatedRoute,
+  SubjectSubjectRoute: SubjectSubjectRoute,
 }
 export const routeTree = rootRouteImport
   ._addFileChildren(rootRouteChildren)
