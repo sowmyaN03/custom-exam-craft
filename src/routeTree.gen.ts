@@ -11,6 +11,7 @@
 import { Route as rootRouteImport } from './routes/__root'
 import { Route as IndexRouteImport } from './routes/index'
 import { Route as CustomRouteImport } from './routes/custom'
+import { Route as HistoryRouteImport } from './routes/history'
 import { Route as QuizRouteImport } from './routes/quiz'
 import { Route as RepeatedRouteImport } from './routes/repeated'
 import { Route as SubjectSubjectRouteImport } from './routes/subject.$subject'
@@ -23,6 +24,11 @@ const IndexRoute = IndexRouteImport.update({
 const CustomRoute = CustomRouteImport.update({
   id: '/custom',
   path: '/custom',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const HistoryRoute = HistoryRouteImport.update({
+  id: '/history',
+  path: '/history',
   getParentRoute: () => rootRouteImport,
 } as any)
 const QuizRoute = QuizRouteImport.update({
@@ -44,6 +50,7 @@ const SubjectSubjectRoute = SubjectSubjectRouteImport.update({
 export interface FileRoutesByFullPath {
   '/': typeof IndexRoute
   '/custom': typeof CustomRoute
+  '/history': typeof HistoryRoute
   '/quiz': typeof QuizRoute
   '/repeated': typeof RepeatedRoute
   '/subject/$subject': typeof SubjectSubjectRoute
@@ -51,6 +58,7 @@ export interface FileRoutesByFullPath {
 export interface FileRoutesByTo {
   '/': typeof IndexRoute
   '/custom': typeof CustomRoute
+  '/history': typeof HistoryRoute
   '/quiz': typeof QuizRoute
   '/repeated': typeof RepeatedRoute
   '/subject/$subject': typeof SubjectSubjectRoute
@@ -59,21 +67,31 @@ export interface FileRoutesById {
   __root__: typeof rootRouteImport
   '/': typeof IndexRoute
   '/custom': typeof CustomRoute
+  '/history': typeof HistoryRoute
   '/quiz': typeof QuizRoute
   '/repeated': typeof RepeatedRoute
   '/subject/$subject': typeof SubjectSubjectRoute
 }
 export interface FileRouteTypes {
   fileRoutesByFullPath: FileRoutesByFullPath
-  fullPaths: '/' | '/custom' | '/quiz' | '/repeated' | '/subject/$subject'
+  fullPaths:
+    '/' | '/custom' | '/history' | '/quiz' | '/repeated' | '/subject/$subject'
   fileRoutesByTo: FileRoutesByTo
-  to: '/' | '/custom' | '/quiz' | '/repeated' | '/subject/$subject'
-  id: '__root__' | '/' | '/custom' | '/quiz' | '/repeated' | '/subject/$subject'
+  to: '/' | '/custom' | '/history' | '/quiz' | '/repeated' | '/subject/$subject'
+  id:
+    | '__root__'
+    | '/'
+    | '/custom'
+    | '/history'
+    | '/quiz'
+    | '/repeated'
+    | '/subject/$subject'
   fileRoutesById: FileRoutesById
 }
 export interface RootRouteChildren {
   IndexRoute: typeof IndexRoute
   CustomRoute: typeof CustomRoute
+  HistoryRoute: typeof HistoryRoute
   QuizRoute: typeof QuizRoute
   RepeatedRoute: typeof RepeatedRoute
   SubjectSubjectRoute: typeof SubjectSubjectRoute
@@ -93,6 +111,13 @@ declare module '@tanstack/react-router' {
       path: '/custom'
       fullPath: '/custom'
       preLoaderRoute: typeof CustomRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/history': {
+      id: '/history'
+      path: '/history'
+      fullPath: '/history'
+      preLoaderRoute: typeof HistoryRouteImport
       parentRoute: typeof rootRouteImport
     }
     '/quiz': {
@@ -122,6 +147,7 @@ declare module '@tanstack/react-router' {
 const rootRouteChildren: RootRouteChildren = {
   IndexRoute: IndexRoute,
   CustomRoute: CustomRoute,
+  HistoryRoute: HistoryRoute,
   QuizRoute: QuizRoute,
   RepeatedRoute: RepeatedRoute,
   SubjectSubjectRoute: SubjectSubjectRoute,
