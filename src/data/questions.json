@@ -80,26 +80,6 @@
   "recall": false
  },
  {
-  "id": "q-355059ec03",
-  "question": "Data bindings are applied as . . . . . . . . or as special sequences of characters in strings.",
-  "options": [
-   "expressions",
-   "attributes on HTML elements",
-   "elements itself",
-   "none of above"
-  ],
-  "correct": [
-   1
-  ],
-  "explanation": "",
-  "subject": "HTML & CSS",
-  "section": "Frontend Foundations",
-  "source": "CLOUD FSD Dumps",
-  "repeatCount": 2,
-  "fromRepeatedPaper": true,
-  "recall": false
- },
- {
   "id": "q-45789afb52",
   "question": "Given the following code:float f = 7.0f/2.0f;long l = 7L/2L;Which statement is true?",
   "options": [
@@ -118,6 +98,26 @@
   "repeatCount": 3,
   "fromRepeatedPaper": true,
   "recall": false
+ },
+ {
+  "id": "q-6950adf099",
+  "question": "How to add search bar using bootstrap?",
+  "options": [
+   "Option A - <class= \"gly.. Gly..\">",
+   "<ol>",
+   "<ul class=\"nav nav-tabs\">",
+   "B"
+  ],
+  "correct": [
+   0
+  ],
+  "explanation": "",
+  "subject": "HTML & CSS",
+  "section": "Frontend Foundations",
+  "source": "Cloud FSD 2024 Feb-May paper",
+  "repeatCount": 1,
+  "fromRepeatedPaper": false,
+  "recall": true
  },
  {
   "id": "q-4492937ed0",
@@ -275,6 +275,66 @@
   "recall": false
  },
  {
+  "id": "q-1707310381",
+  "question": "What tag is used to get a bulleted list?",
+  "options": [
+   "<ul>",
+   "<ul class=\"nav nav-tabs\">",
+   "D",
+   "<ol>"
+  ],
+  "correct": [
+   0
+  ],
+  "explanation": "",
+  "subject": "HTML & CSS",
+  "section": "Frontend Foundations",
+  "source": "Cloud FSD 2024 Feb-May paper",
+  "repeatCount": 1,
+  "fromRepeatedPaper": false,
+  "recall": true
+ },
+ {
+  "id": "q-da2edf3223",
+  "question": "What tag is used to get an ordered list?",
+  "options": [
+   "Option A - <class= \"gly.. Gly..\">",
+   "B",
+   "<ol>",
+   "D"
+  ],
+  "correct": [
+   2
+  ],
+  "explanation": "",
+  "subject": "HTML & CSS",
+  "section": "Frontend Foundations",
+  "source": "Cloud FSD 2024 Feb-May paper",
+  "repeatCount": 1,
+  "fromRepeatedPaper": false,
+  "recall": true
+ },
+ {
+  "id": "q-220117c4a1",
+  "question": "Where in an HTML document is the correct place to refer to an external style sheet?",
+  "options": [
+   "Head section",
+   "Option A - <class= \"gly.. Gly..\">",
+   "<ul>",
+   "<ul class=\"nav nav-tabs\">"
+  ],
+  "correct": [
+   0
+  ],
+  "explanation": "",
+  "subject": "HTML & CSS",
+  "section": "Frontend Foundations",
+  "source": "Cloud FSD 2024 Feb-May paper",
+  "repeatCount": 1,
+  "fromRepeatedPaper": false,
+  "recall": true
+ },
+ {
   "id": "q-5f67dd63e8",
   "question": "Which Bootstrap class adds zebra-stripes to a table ?",
   "options": [
@@ -369,8 +429,8 @@
   "subject": "HTML & CSS",
   "section": "Frontend Foundations",
   "source": "Cloud FSD 2024 Feb-May paper",
-  "repeatCount": 1,
-  "fromRepeatedPaper": false,
+  "repeatCount": 2,
+  "fromRepeatedPaper": true,
   "recall": true
  },
  {
@@ -472,6 +532,26 @@
   "recall": false
  },
  {
+  "id": "q-890cc1b37f",
+  "question": "Which of the following is the correct syntax of creating a standard navigation tab?",
+  "options": [
+   "aside the content of the page",
+   "Option A - <class= \"gly.. Gly..\">",
+   "<ul class=\"nav nav-tabs\">",
+   "Head section"
+  ],
+  "correct": [
+   2
+  ],
+  "explanation": "",
+  "subject": "HTML & CSS",
+  "section": "Frontend Foundations",
+  "source": "Cloud FSD 2024 Feb-May paper",
+  "repeatCount": 1,
+  "fromRepeatedPaper": false,
+  "recall": true
+ },
+ {
   "id": "q-6dbb692791",
   "question": "Which of the following values are accepted by the float Property?a) leftb) rightc) noned) all of the mentioned",
   "options": [
@@ -509,6 +589,26 @@
   "repeatCount": 2,
   "fromRepeatedPaper": true,
   "recall": false
+ },
+ {
+  "id": "q-61403098a3",
+  "question": "what does <aside> tag in html do?",
+  "options": [
+   "aside the content of the page",
+   "Option A - <class= \"gly.. Gly..\">",
+   "<ul class=\"nav nav-tabs\">",
+   "<ul>"
+  ],
+  "correct": [
+   0
+  ],
+  "explanation": "",
+  "subject": "HTML & CSS",
+  "section": "Frontend Foundations",
+  "source": "Cloud FSD 2024 Feb-May paper",
+  "repeatCount": 1,
+  "fromRepeatedPaper": false,
+  "recall": true
  },
  {
   "id": "q-151fb553a6",
@@ -596,46 +696,6 @@
   ],
   "correct": [
    0
-  ],
-  "explanation": "",
-  "subject": "JavaScript",
-  "section": "Frontend Foundations",
-  "source": "CLOUD FSD Dumps",
-  "repeatCount": 2,
-  "fromRepeatedPaper": true,
-  "recall": false
- },
- {
-  "id": "q-e5eb7a142a",
-  "question": "An advantage of React is",
-  "options": [
-   "jQuery syntax",
-   "static type checking",
-   "speed",
-   "easy integration with other JavaScript libraries"
-  ],
-  "correct": [
-   2
-  ],
-  "explanation": "",
-  "subject": "JavaScript",
-  "section": "Frontend Foundations",
-  "source": "CLOUD FSD Dumps",
-  "repeatCount": 2,
-  "fromRepeatedPaper": true,
-  "recall": false
- },
- {
-  "id": "q-1947c5fbf5",
-  "question": "Assuming you define the statement: \"var person: string;\" TypeScript will alert you that there is an error if you enter which additional code?",
-  "options": [
-   "person = { name: 'Colleen', age: 25; }",
-   "person = 0",
-   "person = ['Colleen', 'John'];",
-   "all of the above"
-  ],
-  "correct": [
-   3
   ],
   "explanation": "",
   "subject": "JavaScript",
@@ -765,7 +825,7 @@
   "recall": false
  },
  {
-  "id": "q-3fdf42f75e",
+  "id": "q-37c35bdf8e",
   "question": "In Javascript , what is the observation made of the statement if (!a[i]) continue ? i. Skips the undefined elements. ii. Skips the null elements. iii. Skips the non existent elements.",
   "options": [
    "i and ii only.",
@@ -780,7 +840,27 @@
   "subject": "JavaScript",
   "section": "Frontend Foundations",
   "source": "CLOUD FSD Dumps",
-  "repeatCount": 3,
+  "repeatCount": 1,
+  "fromRepeatedPaper": false,
+  "recall": false
+ },
+ {
+  "id": "q-fbbfa5e8a6",
+  "question": "In Javascript , what is the observation made of the statement if (!a[i]) continue ? i. Skips the undefined elements. ii. Skips the null elements. iii. Skips the non existent elements. ANS :-",
+  "options": [
+   "i and ii only.",
+   "ii and iii only.",
+   "i and iii only.",
+   "i,ii and iii"
+  ],
+  "correct": [
+   3
+  ],
+  "explanation": "",
+  "subject": "JavaScript",
+  "section": "Frontend Foundations",
+  "source": "CLOUD FSD Dumps",
+  "repeatCount": 2,
   "fromRepeatedPaper": true,
   "recall": false
  },
@@ -805,26 +885,8 @@
   "recall": false
  },
  {
-  "id": "q-95fe348475",
-  "question": "In typescript, it calls an javascript internally and then performs validations",
-  "options": [
-   "True",
-   "False"
-  ],
-  "correct": [
-   0
-  ],
-  "explanation": "",
-  "subject": "JavaScript",
-  "section": "Frontend Foundations",
-  "source": "CLOUD FSD Dumps",
-  "repeatCount": 2,
-  "fromRepeatedPaper": true,
-  "recall": false
- },
- {
-  "id": "q-0730919887",
-  "question": "Let has block scope? A. True B. False",
+  "id": "q-2aa4f1c098",
+  "question": "In javascript const declares block scoped?",
   "options": [
    "True",
    "False"
@@ -841,32 +903,11 @@
   "recall": true
  },
  {
-  "id": "q-ce382867be",
-  "question": "Method used to process bean before initialization callback",
+  "id": "q-0730919887",
+  "question": "Let has block scope? A. True B. False",
   "options": [
-   "scope",
-   "postProcessAfterInitialization() ----",
-   "postProcessBeforeInitialization()",
-   "it\u00eds own constructor"
-  ],
-  "correct": [
-   1
-  ],
-  "explanation": "",
-  "subject": "JavaScript",
-  "section": "Frontend Foundations",
-  "source": "Spring Core, AOP, REST & DevOps paper",
-  "repeatCount": 1,
-  "fromRepeatedPaper": false,
-  "recall": false
- },
- {
-  "id": "q-3cca04d54c",
-  "question": "React's abstraction of the document object model is often called...",
-  "options": [
-   "Virtual DOM",
-   "Meta DOM",
-   "Virtualized Model"
+   "True",
+   "False"
   ],
   "correct": [
    0
@@ -874,10 +915,10 @@
   "explanation": "",
   "subject": "JavaScript",
   "section": "Frontend Foundations",
-  "source": "CLOUD FSD Dumps",
+  "source": "Cloud FSD 2024 Feb-May paper",
   "repeatCount": 2,
   "fromRepeatedPaper": true,
-  "recall": false
+  "recall": true
  },
  {
   "id": "q-2a4e9d164f",
@@ -915,12 +956,12 @@
   "subject": "JavaScript",
   "section": "Frontend Foundations",
   "source": "Cloud FSD 2024 Feb-May paper",
-  "repeatCount": 1,
-  "fromRepeatedPaper": false,
+  "repeatCount": 2,
+  "fromRepeatedPaper": true,
   "recall": true
  },
  {
-  "id": "q-ef23684e6b",
+  "id": "q-2e1ea158d0",
   "question": "The __ Javascript method is like the mathematical \u201cfor all\u201d quantifier , which resumes true if and only if the function returns true for all elements in the array.",
   "options": [
    "every()",
@@ -950,26 +991,6 @@
   ],
   "correct": [
    2
-  ],
-  "explanation": "",
-  "subject": "JavaScript",
-  "section": "Frontend Foundations",
-  "source": "CLOUD FSD Dumps",
-  "repeatCount": 2,
-  "fromRepeatedPaper": true,
-  "recall": false
- },
- {
-  "id": "q-e10382fe98",
-  "question": "The just-in-time JSX transformer is good for",
-  "options": [
-   "integrating with JavaScript tools",
-   "simple development workflow",
-   "reusing behavior",
-   "performance"
-  ],
-  "correct": [
-   1
   ],
   "explanation": "",
   "subject": "JavaScript",
@@ -1018,51 +1039,12 @@
   "recall": false
  },
  {
-  "id": "q-3d9ec1d18e",
-  "question": "Using JdbcTemplate, what is the Spring provided class you will use for result set parsing and merging rows into a single object? a. ResultSetExtractor b. RowMapper c. RowCallbackHandler d. ResultSetMapper",
-  "options": [
-   ". every()",
-   "A",
-   "B",
-   "true"
-  ],
-  "correct": [
-   2
-  ],
-  "explanation": "",
-  "subject": "JavaScript",
-  "section": "Frontend Foundations",
-  "source": "Cloud FSD 2024 Feb-May paper",
-  "repeatCount": 1,
-  "fromRepeatedPaper": false,
-  "recall": true
- },
- {
   "id": "q-31e2b7ecd1",
   "question": "What does an async function return?",
   "options": [
    "A promise in a promise",
    "The value returned from the function",
    "A promise"
-  ],
-  "correct": [
-   2
-  ],
-  "explanation": "",
-  "subject": "JavaScript",
-  "section": "Frontend Foundations",
-  "source": "CLOUD FSD Dumps",
-  "repeatCount": 2,
-  "fromRepeatedPaper": true,
-  "recall": false
- },
- {
-  "id": "q-abb2dafbc8",
-  "question": "What does the \u201cwebpack\u201d command do ?",
-  "options": [
-   "Runs React Local Development Server.",
-   "Transpiles all the Javascript down into one file.",
-   "Both A and B."
   ],
   "correct": [
    2
@@ -1085,26 +1067,6 @@
   ],
   "correct": [
    0
-  ],
-  "explanation": "",
-  "subject": "JavaScript",
-  "section": "Frontend Foundations",
-  "source": "CLOUD FSD Dumps",
-  "repeatCount": 2,
-  "fromRepeatedPaper": true,
-  "recall": false
- },
- {
-  "id": "q-f4e6ec7992",
-  "question": "What is a function in JavaScript?",
-  "options": [
-   "An instance of a class",
-   "A statement that evaluates an expression",
-   "A block of organized, reusable code that performs a single action",
-   "Code that allows us to write loops"
-  ],
-  "correct": [
-   2
   ],
   "explanation": "",
   "subject": "JavaScript",
@@ -1209,8 +1171,8 @@
   "subject": "JavaScript",
   "section": "Frontend Foundations",
   "source": "Cloud FSD 2024 Feb-May paper",
-  "repeatCount": 1,
-  "fromRepeatedPaper": false,
+  "repeatCount": 2,
+  "fromRepeatedPaper": true,
   "recall": true
  },
  {
@@ -1273,7 +1235,7 @@
   "recall": false
  },
  {
-  "id": "q-db05e4b0fa",
+  "id": "q-da32af8559",
   "question": "What is the relationship between JavaScript and ECMAScript? A. ECMAScript is a standard that JavaScript implements. B. They are different terms for the same thing. C. JavaScript is a standard that ECMAScript implements. D. JavaScript is an old term for what is now called ECMAScript.",
   "options": [
    "True",
@@ -1288,8 +1250,8 @@
   "subject": "JavaScript",
   "section": "Frontend Foundations",
   "source": "Cloud FSD 2024 Feb-May paper",
-  "repeatCount": 1,
-  "fromRepeatedPaper": false,
+  "repeatCount": 2,
+  "fromRepeatedPaper": true,
   "recall": true
  },
  {
@@ -1474,26 +1436,6 @@
   "recall": false
  },
  {
-  "id": "q-5c27c4aff1",
-  "question": "Which is the proper syntax to make sessionTemplate available by name from a JavaScript module?",
-  "options": [
-   "export function sessionTemplate(sessions) {...}",
-   "export default function sessionTemplate(sessions) {...}",
-   "module.exports = function sessionTemplate(sessions) {...}",
-   "require function sessionTemplate(sessions) {...}"
-  ],
-  "correct": [
-   0
-  ],
-  "explanation": "",
-  "subject": "JavaScript",
-  "section": "Frontend Foundations",
-  "source": "CLOUD FSD Dumps",
-  "repeatCount": 2,
-  "fromRepeatedPaper": true,
-  "recall": false
- },
- {
   "id": "q-3bf6ed6512",
   "question": "Which of the following Arrow Functions are true",
   "options": [
@@ -1535,46 +1477,6 @@
   "recall": false
  },
  {
-  "id": "q-240643f73c",
-  "question": "Which of the following codes will not throw an error?",
-  "options": [
-   "JSON.parse(\u201d);",
-   "JSON.parse(null);",
-   "JSON.parse();",
-   "JSON.parse({});"
-  ],
-  "correct": [
-   1
-  ],
-  "explanation": "",
-  "subject": "JavaScript",
-  "section": "Frontend Foundations",
-  "source": "CLOUD FSD Dumps",
-  "repeatCount": 3,
-  "fromRepeatedPaper": true,
-  "recall": false
- },
- {
-  "id": "q-e1ceb6c6f3",
-  "question": "Which of the following is not a callback method of React ?",
-  "options": [
-   "render()",
-   "componentDidMount()",
-   "componentFailedToMount()",
-   "componentWillunMount()"
-  ],
-  "correct": [
-   2
-  ],
-  "explanation": "",
-  "subject": "JavaScript",
-  "section": "Frontend Foundations",
-  "source": "CLOUD FSD Dumps",
-  "repeatCount": 3,
-  "fromRepeatedPaper": true,
-  "recall": false
- },
- {
   "id": "q-3194ebe578",
   "question": "Which of the following methods CANNOT be used to add array elements in Javascript ?",
   "options": [
@@ -1595,7 +1497,7 @@
   "recall": false
  },
  {
-  "id": "q-7f0e490a07",
+  "id": "q-5072554d14",
   "question": "Which of these methods is the ultimate element selection method and a very powerful technique by which client side Javascript programs can select the document elements that they are going to manipulate ?",
   "options": [
    "querySelectAll()",
@@ -1635,20 +1537,22 @@
   "recall": false
  },
  {
-  "id": "q-2ac7d4a0f1",
-  "question": "You can also use an ES6 class to define a component in React.",
+  "id": "q-e5eb7a142a",
+  "question": "An advantage of React is",
   "options": [
-   "True.",
-   "False."
+   "jQuery syntax",
+   "static type checking",
+   "speed",
+   "easy integration with other JavaScript libraries"
   ],
   "correct": [
-   0
+   2
   ],
   "explanation": "",
-  "subject": "JavaScript",
+  "subject": "React",
   "section": "Frontend Foundations",
   "source": "CLOUD FSD Dumps",
-  "repeatCount": 3,
+  "repeatCount": 2,
   "fromRepeatedPaper": true,
   "recall": false
  },
@@ -1688,8 +1592,8 @@
   "subject": "React",
   "section": "Frontend Foundations",
   "source": "Cloud FSD 2024 Feb-May paper",
-  "repeatCount": 1,
-  "fromRepeatedPaper": false,
+  "repeatCount": 2,
+  "fromRepeatedPaper": true,
   "recall": true
  },
  {
@@ -1711,6 +1615,26 @@
   "repeatCount": 3,
   "fromRepeatedPaper": true,
   "recall": false
+ },
+ {
+  "id": "q-7edc831c03",
+  "question": "How can you access the state of a component from inside of a member function in React?",
+  "options": [
+   "A",
+   "(Longest option)",
+   "this.getState()",
+   "C"
+  ],
+  "correct": [
+   2
+  ],
+  "explanation": "",
+  "subject": "React",
+  "section": "Frontend Foundations",
+  "source": "Cloud FSD 2024 Feb-May paper",
+  "repeatCount": 1,
+  "fromRepeatedPaper": false,
+  "recall": true
  },
  {
   "id": "q-c83946b2c7",
@@ -1753,7 +1677,7 @@
   "recall": false
  },
  {
-  "id": "q-2127cf2336",
+  "id": "q-8aa94f8014",
   "question": "Identify the correct ES6 statement. i. var React = require(\u2018react\u2019); ii. import React from react; iii. module.exports = Component. iv. export default Component.",
   "options": [
    "Only i and ii",
@@ -1788,9 +1712,28 @@
   "subject": "React",
   "section": "Frontend Foundations",
   "source": "Cloud FSD 2024 Feb-May paper",
-  "repeatCount": 1,
-  "fromRepeatedPaper": false,
+  "repeatCount": 2,
+  "fromRepeatedPaper": true,
   "recall": true
+ },
+ {
+  "id": "q-3cca04d54c",
+  "question": "React's abstraction of the document object model is often called...",
+  "options": [
+   "Virtual DOM",
+   "Meta DOM",
+   "Virtualized Model"
+  ],
+  "correct": [
+   0
+  ],
+  "explanation": "",
+  "subject": "React",
+  "section": "Frontend Foundations",
+  "source": "CLOUD FSD Dumps",
+  "repeatCount": 2,
+  "fromRepeatedPaper": true,
+  "recall": false
  },
  {
   "id": "q-be312e1a40",
@@ -1831,26 +1774,6 @@
   "recall": false
  },
  {
-  "id": "q-81627593ee",
-  "question": "The JSX pre-processor is packaged as a",
-  "options": [
-   "dynamic link library",
-   "Nuget package",
-   "Gem",
-   "npm module"
-  ],
-  "correct": [
-   3
-  ],
-  "explanation": "",
-  "subject": "React",
-  "section": "Frontend Foundations",
-  "source": "CLOUD FSD Dumps",
-  "repeatCount": 2,
-  "fromRepeatedPaper": true,
-  "recall": false
- },
- {
   "id": "q-00ebecde9c",
   "question": "The __ attribute of a React form is called when the main action button inside the form is pressed. A. onSubmit B. onChange C. onComplete",
   "options": [
@@ -1866,8 +1789,8 @@
   "subject": "React",
   "section": "Frontend Foundations",
   "source": "Cloud FSD 2024 Feb-May paper",
-  "repeatCount": 1,
-  "fromRepeatedPaper": false,
+  "repeatCount": 2,
+  "fromRepeatedPaper": true,
   "recall": true
  },
  {
@@ -1925,9 +1848,29 @@
   "subject": "React",
   "section": "Frontend Foundations",
   "source": "Cloud FSD 2024 Feb-May paper",
-  "repeatCount": 1,
-  "fromRepeatedPaper": false,
+  "repeatCount": 2,
+  "fromRepeatedPaper": true,
   "recall": true
+ },
+ {
+  "id": "q-e10382fe98",
+  "question": "The just-in-time JSX transformer is good for",
+  "options": [
+   "integrating with JavaScript tools",
+   "simple development workflow",
+   "reusing behavior",
+   "performance"
+  ],
+  "correct": [
+   1
+  ],
+  "explanation": "",
+  "subject": "React",
+  "section": "Frontend Foundations",
+  "source": "CLOUD FSD Dumps",
+  "repeatCount": 2,
+  "fromRepeatedPaper": true,
+  "recall": false
  },
  {
   "id": "q-de74a244fe",
@@ -1939,6 +1882,25 @@
   ],
   "correct": [
    1
+  ],
+  "explanation": "",
+  "subject": "React",
+  "section": "Frontend Foundations",
+  "source": "CLOUD FSD Dumps",
+  "repeatCount": 2,
+  "fromRepeatedPaper": true,
+  "recall": false
+ },
+ {
+  "id": "q-abb2dafbc8",
+  "question": "What does the \u201cwebpack\u201d command do ?",
+  "options": [
+   "Runs React Local Development Server.",
+   "Transpiles all the Javascript down into one file.",
+   "Both A and B."
+  ],
+  "correct": [
+   2
   ],
   "explanation": "",
   "subject": "React",
@@ -1986,6 +1948,26 @@
   "repeatCount": 2,
   "fromRepeatedPaper": true,
   "recall": false
+ },
+ {
+  "id": "q-2add3298f2",
+  "question": "What is React in MVC?",
+  "options": [
+   "Controller",
+   "C",
+   "D",
+   "A"
+  ],
+  "correct": [
+   0
+  ],
+  "explanation": "",
+  "subject": "React",
+  "section": "Frontend Foundations",
+  "source": "Cloud FSD 2024 Feb-May paper",
+  "repeatCount": 1,
+  "fromRepeatedPaper": false,
+  "recall": true
  },
  {
   "id": "q-949a959812",
@@ -2107,12 +2089,31 @@
   "recall": false
  },
  {
-  "id": "q-456362a372",
-  "question": "Which of the following are automation tools?",
+  "id": "q-e1ceb6c6f3",
+  "question": "Which of the following is not a callback method of React ?",
   "options": [
-   "Gulp",
-   "JSX",
-   "Express"
+   "render()",
+   "componentDidMount()",
+   "componentFailedToMount()",
+   "componentWillunMount()"
+  ],
+  "correct": [
+   2
+  ],
+  "explanation": "",
+  "subject": "React",
+  "section": "Frontend Foundations",
+  "source": "CLOUD FSD Dumps",
+  "repeatCount": 3,
+  "fromRepeatedPaper": true,
+  "recall": false
+ },
+ {
+  "id": "q-2ac7d4a0f1",
+  "question": "You can also use an ES6 class to define a component in React.",
+  "options": [
+   "True.",
+   "False."
   ],
   "correct": [
    0
@@ -2121,7 +2122,7 @@
   "subject": "React",
   "section": "Frontend Foundations",
   "source": "CLOUD FSD Dumps",
-  "repeatCount": 2,
+  "repeatCount": 3,
   "fromRepeatedPaper": true,
   "recall": false
  },
@@ -2135,6 +2136,26 @@
   ],
   "correct": [
    0
+  ],
+  "explanation": "",
+  "subject": "TypeScript",
+  "section": "Frontend Foundations",
+  "source": "CLOUD FSD Dumps",
+  "repeatCount": 2,
+  "fromRepeatedPaper": true,
+  "recall": false
+ },
+ {
+  "id": "q-1947c5fbf5",
+  "question": "Assuming you define the statement: \"var person: string;\" TypeScript will alert you that there is an error if you enter which additional code?",
+  "options": [
+   "person = { name: 'Colleen', age: 25; }",
+   "person = 0",
+   "person = ['Colleen', 'John'];",
+   "all of the above"
+  ],
+  "correct": [
+   3
   ],
   "explanation": "",
   "subject": "TypeScript",
@@ -2202,6 +2223,24 @@
   "source": "CLOUD FSD Dumps",
   "repeatCount": 1,
   "fromRepeatedPaper": false,
+  "recall": false
+ },
+ {
+  "id": "q-95fe348475",
+  "question": "In typescript, it calls an javascript internally and then performs validations",
+  "options": [
+   "True",
+   "False"
+  ],
+  "correct": [
+   0
+  ],
+  "explanation": "",
+  "subject": "TypeScript",
+  "section": "Frontend Foundations",
+  "source": "CLOUD FSD Dumps",
+  "repeatCount": 2,
+  "fromRepeatedPaper": true,
   "recall": false
  },
  {
@@ -2398,8 +2437,8 @@
   "subject": "TypeScript",
   "section": "Frontend Foundations",
   "source": "CLOUD FSD Dumps",
-  "repeatCount": 1,
-  "fromRepeatedPaper": false,
+  "repeatCount": 2,
+  "fromRepeatedPaper": true,
   "recall": false
  },
  {
@@ -2420,8 +2459,8 @@
   "subject": "TypeScript",
   "section": "Frontend Foundations",
   "source": "CLOUD FSD Dumps",
-  "repeatCount": 1,
-  "fromRepeatedPaper": false,
+  "repeatCount": 2,
+  "fromRepeatedPaper": true,
   "recall": false
  },
  {
@@ -2465,7 +2504,7 @@
   "recall": false
  },
  {
-  "id": "q-38417fe49e",
+  "id": "q-f6e0310329",
   "question": "Which of the following will correctly import the items exported by this export statement? export { GetUser as GetLibraryUser, GetBook as GetLibraryBook };",
   "options": [
    "import TypeScript from './library';",
@@ -2544,7 +2583,7 @@
   "recall": false
  },
  {
-  "id": "q-a8c283f9be",
+  "id": "q-186382170b",
   "question": "EventEmitter class\u2019s simple interface, which basically encompass two methods . . . . . . . . . can therefore be used to trigger custom events and listen to events as well, both synchronously or asynchronously.",
   "options": [
    "exit()",
@@ -2618,8 +2657,8 @@
   "subject": "Core Java",
   "section": "Java & Spring",
   "source": "Spring Core, AOP, REST & DevOps paper",
-  "repeatCount": 1,
-  "fromRepeatedPaper": false,
+  "repeatCount": 2,
+  "fromRepeatedPaper": true,
   "recall": false
  },
  {
@@ -2663,7 +2702,7 @@
   "recall": false
  },
  {
-  "id": "q-6e12200f2c",
+  "id": "q-966d6f586a",
   "question": "In Bootstrap, the class .img-circle is used to turn an image into a circle. In Java, which of these class types supports sequential and parallel processing of data?",
   "options": [
    "Streams",
@@ -2678,12 +2717,12 @@
   "subject": "Core Java",
   "section": "Java & Spring",
   "source": "Cloud FSD 2024 Feb-May paper",
-  "repeatCount": 1,
-  "fromRepeatedPaper": false,
+  "repeatCount": 2,
+  "fromRepeatedPaper": true,
   "recall": true
  },
  {
-  "id": "q-391a2a2882",
+  "id": "q-9d388db193",
   "question": "In Java Optional.ofNullable() method of the Optional Class, returns a Non-empty Optional if the given object has a value, otherwise it returns an empty Optional.",
   "options": [
    "true",
@@ -2822,8 +2861,8 @@
   "subject": "Core Java",
   "section": "Java & Spring",
   "source": "Cloud FSD 2024 Feb-May paper",
-  "repeatCount": 1,
-  "fromRepeatedPaper": false,
+  "repeatCount": 2,
+  "fromRepeatedPaper": true,
   "recall": true
  },
  {
@@ -2842,12 +2881,12 @@
   "subject": "Core Java",
   "section": "Java & Spring",
   "source": "Cloud FSD 2024 Feb-May paper",
-  "repeatCount": 1,
-  "fromRepeatedPaper": false,
+  "repeatCount": 2,
+  "fromRepeatedPaper": true,
   "recall": true
  },
  {
-  "id": "q-7cc67b7673",
+  "id": "q-4710d19a05",
   "question": "Select the correct statement for the given code based on Polymorphism in Java. class Bike{ void run(){System.out.println(\"running\");} } class Splendor extends Bike{ void run(){System.out.println(\"running safely with 60km\");} public static void main(String args[]){ Bike b = new Splendor();",
   "options": [
    "run(); } }",
@@ -2903,8 +2942,8 @@
   "subject": "Core Java",
   "section": "Java & Spring",
   "source": "CLOUD FSD Dumps",
-  "repeatCount": 1,
-  "fromRepeatedPaper": false,
+  "repeatCount": 2,
+  "fromRepeatedPaper": true,
   "recall": false
  },
  {
@@ -3025,8 +3064,8 @@
   "subject": "Core Java",
   "section": "Java & Spring",
   "source": "Cloud FSD 2024 Feb-May paper",
-  "repeatCount": 1,
-  "fromRepeatedPaper": false,
+  "repeatCount": 2,
+  "fromRepeatedPaper": true,
   "recall": true
  },
  {
@@ -3049,7 +3088,7 @@
   "recall": false
  },
  {
-  "id": "q-3c3e9f5780",
+  "id": "q-f736c6bac9",
   "question": "What is the output of this program? import java.util.*; class Array { public static void main(String args[]) { int array[] = new int [5]; for (int i = 5; i > 0; i--) array[5-i] = i; Arrays.fill(array, 1, 4, 8); for (int i = 0; i < 5 ; i++) System.out.print(array[i]); } } advertisements",
   "options": [
    "12885",
@@ -3069,7 +3108,7 @@
   "recall": false
  },
  {
-  "id": "q-fdf5cae6f5",
+  "id": "q-e6a482edee",
   "question": "What is the output of this program? import java.util.*; class Bitset { public static void main(String args[]) { BitSet obj = new BitSet(5); for (int i = 0; i < 5; ++i) obj.set(i); obj.clear(2); System.out.print(obj); } }",
   "options": [
    "{0, 1, 3, 4}",
@@ -3089,7 +3128,7 @@
   "recall": false
  },
  {
-  "id": "q-4a928026d1",
+  "id": "q-3050062555",
   "question": "What is the output of this program? import java.util.*; class vector { public static void main(String args[]) { Vector obj = new Vector(4,2); obj.addElement(new Integer(3)); obj.addElement(new Integer(2)); obj.addElement(new Integer(5)); obj.removeAll(obj); System.out.println(obj.isEmpty()); } }",
   "options": [
    "0",
@@ -3109,7 +3148,7 @@
   "recall": false
  },
  {
-  "id": "q-7d56fae8c6",
+  "id": "q-be8a21b975",
   "question": "What is the output of this program? import java.util.*; public class genericstack <E> { Stack <E> stk = new Stack <E>(); public void push(E obj) { stk.push(obj); } public E pop() { E obj = stk.pop(); return obj; } } class Output { public static void main(String args[]) { genericstack <String> gs = new gene ricstack<String>(); gs.push(\"Hello\"); System.out.print(gs.pop() + \" \"); genericstack <Integer> gs = new gen ericstack<Integer>(); gs.push(36); System.out.println(gs.pop()); } }",
   "options": [
    "Error",
@@ -3168,6 +3207,26 @@
   "repeatCount": 2,
   "fromRepeatedPaper": true,
   "recall": false
+ },
+ {
+  "id": "q-69a7e04890",
+  "question": "What is the replacement for PermGen space in Java 8?",
+  "options": [
+   "interface MyFunctionalInterface { }",
+   "Streams",
+   "Metaspace",
+   "A"
+  ],
+  "correct": [
+   2
+  ],
+  "explanation": "",
+  "subject": "Core Java",
+  "section": "Java & Spring",
+  "source": "Cloud FSD 2024 Feb-May paper",
+  "repeatCount": 1,
+  "fromRepeatedPaper": false,
+  "recall": true
  },
  {
   "id": "q-01817f9f0c",
@@ -3246,8 +3305,8 @@
   "subject": "Core Java",
   "section": "Java & Spring",
   "source": "Spring Core, AOP, REST & DevOps paper",
-  "repeatCount": 1,
-  "fromRepeatedPaper": false,
+  "repeatCount": 2,
+  "fromRepeatedPaper": true,
   "recall": false
  },
  {
@@ -3309,7 +3368,27 @@
   "recall": false
  },
  {
-  "id": "q-0ab27cf361",
+  "id": "q-7c06076d5c",
+  "question": "Which of the following represents the correct way to implement a functional interface in Java?",
+  "options": [
+   "Metaspace",
+   "interface MyFunctionalInterface { }",
+   "Single Abstract Method",
+   "A"
+  ],
+  "correct": [
+   1
+  ],
+  "explanation": "",
+  "subject": "Core Java",
+  "section": "Java & Spring",
+  "source": "Cloud FSD 2024 Feb-May paper",
+  "repeatCount": 1,
+  "fromRepeatedPaper": false,
+  "recall": true
+ },
+ {
+  "id": "q-a6e4e6ef6c",
   "question": "Which of the following statements are true about Java ? i. A finally block is executed, only after the catch block is executed. ii. A finally block is executed whether an exception is thrown or not. iii. A finally block is NOT Mandatory. iv. A finally block is executed, only if an exception occurs.",
   "options": [
    "i",
@@ -3469,7 +3548,7 @@
   "recall": false
  },
  {
-  "id": "q-e579b9c7bd",
+  "id": "q-a03bc70834",
   "question": "class output { public static void main(String args[]) { StringBuffer c = new StringBuffer(\"Hello\"); StringBuffer c1 = new StringBuffer(\"World\"); c.append(c1); System.out.println(c); } }",
   "options": [
    "Hello",
@@ -3484,7 +3563,7 @@
   "subject": "Core Java",
   "section": "Java & Spring",
   "source": "CLOUD FSD Dumps",
-  "repeatCount": 2,
+  "repeatCount": 3,
   "fromRepeatedPaper": true,
   "recall": false
  },
@@ -3529,7 +3608,7 @@
   "recall": false
  },
  {
-  "id": "q-fcea06f3d4",
+  "id": "q-cca851e9cb",
   "question": "class output { { public static void main(String args[]) char c[]={'a', '1', 'b' ,' ' ,'A' , '0'}; for (int i = 0; i < 5; ++i) { if(Character.isDigit(c[i])) System.out.println(c[i]+ \" is a digit\"); if(Character.isWhitespace(c[ i])) \" is a Whitespace character\"); System.out.println(c[i]+ if(Character.isUpperCase(c[i ])) System.out.println(c[i]+ \" is an Upper case Letter\"); if(Character.isLowerCase(c[i ])) System.out.println(c[i]+ \" is a lower case Letter\"); i=i+3; } } }",
   "options": [
    "a is a lower case Letter is White space character",
@@ -3549,7 +3628,7 @@
   "recall": false
  },
  {
-  "id": "q-34912f629a",
+  "id": "q-cdb39900c9",
   "question": "import java.io.*; class filesinputoutput { public static void main(String args[]) { InputStream obj = new FileInputStream(\"inputoutput.java\"); System.out.print(obj.available()); } } Note: inputoutput.java is stored in the disk.",
   "options": [
    "true",
@@ -3569,7 +3648,7 @@
   "recall": false
  },
  {
-  "id": "q-6200e51f91",
+  "id": "q-1454ba6777",
   "question": "import java.io.*; public class filesinputoutput { public static void main(String[] args) { String obj = \"abc\"; byte b[] = obj.getBytes(); ByteArrayInputStream obj1 = new Byte ArrayInputStream(b); for (int i = 0; i < 2; ++ i) { int c; while((c = obj1.read()) != -1) { if(i == 0) { System.out.print(Charact er.toUpperCase((char)c)); obj2.write(1); } } System.out.print(obj2); } } }",
   "options": [
    "AaBaCa",
@@ -3609,7 +3688,7 @@
   "recall": false
  },
  {
-  "id": "q-af7840fb94",
+  "id": "q-c1ece0fe19",
   "question": "string ANS : float Q 3. Interfaces defined in TypeScript are included in the JavaScript that is generated? True False ANS : B Q 4.How do you extend an interface in TypeScript?",
   "options": [
    "interface ITruckOptions extends IAutoOptions",
@@ -3626,8 +3705,8 @@
   "subject": "Core Java",
   "section": "Java & Spring",
   "source": "CLOUD FSD Dumps",
-  "repeatCount": 1,
-  "fromRepeatedPaper": false,
+  "repeatCount": 2,
+  "fromRepeatedPaper": true,
   "recall": false
  },
  {
@@ -3670,26 +3749,6 @@
   "recall": false
  },
  {
-  "id": "q-995f0e5766",
-  "question": "Annotation which allows a controller\u2019s field to be assigned using Spring Expression Language(SpEL)",
-  "options": [
-   "@Value",
-   "@After",
-   "@Default",
-   "@None"
-  ],
-  "correct": [
-   0
-  ],
-  "explanation": "",
-  "subject": "Spring & Spring Boot",
-  "section": "Java & Spring",
-  "source": "CLOUD FSD Dumps",
-  "repeatCount": 4,
-  "fromRepeatedPaper": true,
-  "recall": false
- },
- {
   "id": "q-9ae5112f93",
   "question": "BeanFactory implements ApplicationContext ANS : A Q 20 - What is singleton scope?",
   "options": [
@@ -3705,7 +3764,7 @@
   "subject": "Spring & Spring Boot",
   "section": "Java & Spring",
   "source": "CLOUD FSD Dumps",
-  "repeatCount": 2,
+  "repeatCount": 3,
   "fromRepeatedPaper": true,
   "recall": false
  },
@@ -3725,8 +3784,28 @@
   "subject": "Spring & Spring Boot",
   "section": "Java & Spring",
   "source": "Cloud FSD 2024 Feb-May paper",
-  "repeatCount": 1,
-  "fromRepeatedPaper": false,
+  "repeatCount": 2,
+  "fromRepeatedPaper": true,
+  "recall": true
+ },
+ {
+  "id": "q-9413992092",
+  "question": "Can we integrate spring with struts?",
+  "options": [
+   "AOP proxies are created by Spring in order to implement the aspect contracts",
+   "B",
+   "Session scope",
+   "Yes"
+  ],
+  "correct": [
+   3
+  ],
+  "explanation": "",
+  "subject": "Spring & Spring Boot",
+  "section": "Java & Spring",
+  "source": "CLOUD FSD Dumps",
+  "repeatCount": 2,
+  "fromRepeatedPaper": true,
   "recall": true
  },
  {
@@ -3789,25 +3868,7 @@
   "recall": false
  },
  {
-  "id": "q-18d5f8b5be",
-  "question": "Expression Language is the part of Core Container in Spring Framework.",
-  "options": [
-   "True",
-   "False"
-  ],
-  "correct": [
-   0
-  ],
-  "explanation": "None",
-  "subject": "Spring & Spring Boot",
-  "section": "Java & Spring",
-  "source": "CLOUD FSD Dumps",
-  "repeatCount": 3,
-  "fromRepeatedPaper": true,
-  "recall": false
- },
- {
-  "id": "q-203d3b7f8f",
+  "id": "q-bb117fee67",
   "question": "Given the Spring configuration file, which are the correct statements? <bean class=\"com.spring.service.BankServiceImpl\" p:bankName=\"NationalBank\"> </bean>",
   "options": [
    "The p namespace has to be declared",
@@ -3827,7 +3888,7 @@
   "recall": false
  },
  {
-  "id": "q-a997c134d1",
+  "id": "q-48a2a430f9",
   "question": "Given the following configuration class, what are the correct affirmations? Select one or more answers. public class ApplicationConfig { private DataSource dataSource; @Autowired public ApplicationConfig(DataSource dataSource) { this.dataSource = dataSource; } @Bean(name=\"clientRepository\") ClientRepository jpaClientRepository() { return new JpaClientRepository(); } }",
   "options": [
    "Configuration annotation is missing",
@@ -3867,6 +3928,46 @@
   "recall": false
  },
  {
+  "id": "q-a3905d3ca3",
+  "question": "How many types of Dynamic proxy are available in Spring?",
+  "options": [
+   "All of the Above",
+   "Public methods",
+   "two",
+   "Yes"
+  ],
+  "correct": [
+   2
+  ],
+  "explanation": "",
+  "subject": "Spring & Spring Boot",
+  "section": "Java & Spring",
+  "source": "CLOUD FSD Dumps",
+  "repeatCount": 2,
+  "fromRepeatedPaper": true,
+  "recall": true
+ },
+ {
+  "id": "q-dbd9717bb7",
+  "question": "How many types of the injection method in Spring?",
+  "options": [
+   "Session scope",
+   "Using Spring Dependency injection",
+   "Yes",
+   "two"
+  ],
+  "correct": [
+   3
+  ],
+  "explanation": "",
+  "subject": "Spring & Spring Boot",
+  "section": "Java & Spring",
+  "source": "CLOUD FSD Dumps",
+  "repeatCount": 2,
+  "fromRepeatedPaper": true,
+  "recall": true
+ },
+ {
   "id": "q-ce2abba76a",
   "question": "How to auto-inject into a field a Spring bean by its name? Select one or more answer choices.",
   "options": [
@@ -3887,13 +3988,13 @@
   "recall": false
  },
  {
-  "id": "q-f82313dfa3",
-  "question": "How to handle shut down of IoC containers? A - Using shutdownHook() B - Using shutdownHandler() C - Using registerHook() D - Using registerShutdownHook()",
+  "id": "q-a7a2f6c033",
+  "question": "How to get the object of DAO in spring framework?",
   "options": [
-   "wer:D",
-   "The execution of all public method",
-   "Session scope",
-   "Public methods"
+   "Using Spring Dependency injection",
+   "two",
+   "Make a bean aware to the container.",
+   "ApplicationContext"
   ],
   "correct": [
    0
@@ -3901,9 +4002,9 @@
   "explanation": "",
   "subject": "Spring & Spring Boot",
   "section": "Java & Spring",
-  "source": "Cloud FSD 2024 Feb-May paper",
-  "repeatCount": 1,
-  "fromRepeatedPaper": false,
+  "source": "CLOUD FSD Dumps",
+  "repeatCount": 2,
+  "fromRepeatedPaper": true,
   "recall": true
  },
  {
@@ -3927,11 +4028,13 @@
   "recall": false
  },
  {
-  "id": "q-d294253649",
-  "question": "MongoDB database can be accessed using Spring Data.",
+  "id": "q-8cbddf9cec",
+  "question": "How to use idref in spring framework?",
   "options": [
-   "True",
-   "False"
+   "With setter method and constructor argument both",
+   "Yes",
+   "False",
+   "All of the Above"
   ],
   "correct": [
    0
@@ -3939,13 +4042,73 @@
   "explanation": "",
   "subject": "Spring & Spring Boot",
   "section": "Java & Spring",
-  "source": "Cloud FSD 2024 Feb-May paper",
-  "repeatCount": 1,
-  "fromRepeatedPaper": false,
+  "source": "CLOUD FSD Dumps",
+  "repeatCount": 2,
+  "fromRepeatedPaper": true,
   "recall": true
  },
  {
-  "id": "q-7360df2b6f",
+  "id": "q-e2cdaccdbd",
+  "question": "In which spring version has Spring Expression Language been supported?",
+  "options": [
+   "A point cut could select methods that have a custom annotation",
+   "All of the Above",
+   "Using Spring Dependency injection",
+   "Spring 3.0"
+  ],
+  "correct": [
+   3
+  ],
+  "explanation": "",
+  "subject": "Spring & Spring Boot",
+  "section": "Java & Spring",
+  "source": "CLOUD FSD Dumps",
+  "repeatCount": 2,
+  "fromRepeatedPaper": true,
+  "recall": true
+ },
+ {
+  "id": "q-c144f3d174",
+  "question": "In which spring version, java 5 features has been introduced?",
+  "options": [
+   "A point cut could select methods that have a custom annotation",
+   "two",
+   "Singleton",
+   "Spring 3.0"
+  ],
+  "correct": [
+   3
+  ],
+  "explanation": "",
+  "subject": "Spring & Spring Boot",
+  "section": "Java & Spring",
+  "source": "CLOUD FSD Dumps",
+  "repeatCount": 2,
+  "fromRepeatedPaper": true,
+  "recall": true
+ },
+ {
+  "id": "q-ce382867be",
+  "question": "Method used to process bean before initialization callback",
+  "options": [
+   "scope",
+   "postProcessAfterInitialization() ----",
+   "postProcessBeforeInitialization()",
+   "it\u00eds own constructor"
+  ],
+  "correct": [
+   1
+  ],
+  "explanation": "",
+  "subject": "Spring & Spring Boot",
+  "section": "Java & Spring",
+  "source": "Spring Core, AOP, REST & DevOps paper",
+  "repeatCount": 2,
+  "fromRepeatedPaper": true,
+  "recall": false
+ },
+ {
+  "id": "q-adc5d6d744",
   "question": "Select the right statement about referring a Spring configuration file inside the package com.example.myapp in the below example? ApplicationContext context = new ClassPathXmlApplicationContext(\"classpath:/com.example.myapp.config.xml\");",
   "options": [
    "all of the above",
@@ -3985,7 +4148,7 @@
   "recall": false
  },
  {
-  "id": "q-aaf64b48cb",
+  "id": "q-b09819116a",
   "question": "Spring Web MVC (and in Spring in general) is the \"Open for extension, closed for modification\" principle.The reason that this principle is being mentioned here is because a number of methods in the core classes in Spring Web MVC are marked final.",
   "options": [
    "true",
@@ -3998,8 +4161,8 @@
   "subject": "Spring & Spring Boot",
   "section": "Java & Spring",
   "source": "Spring Core, AOP, REST & DevOps paper",
-  "repeatCount": 1,
-  "fromRepeatedPaper": false,
+  "repeatCount": 2,
+  "fromRepeatedPaper": true,
   "recall": false
  },
  {
@@ -4023,6 +4186,26 @@
   "recall": false
  },
  {
+  "id": "q-df6bdf865a",
+  "question": "Using JdbcTemplate, what is the Spring provided class you will use for result set parsing and merging rows into a single object? a. ResultSetExtractor b. RowMapper c. RowCallbackHandler d. ResultSetMapper",
+  "options": [
+   ". every()",
+   "A",
+   "B",
+   "true"
+  ],
+  "correct": [
+   2
+  ],
+  "explanation": "",
+  "subject": "Spring & Spring Boot",
+  "section": "Java & Spring",
+  "source": "Cloud FSD 2024 Feb-May paper",
+  "repeatCount": 2,
+  "fromRepeatedPaper": true,
+  "recall": true
+ },
+ {
   "id": "q-926606e712",
   "question": "Using the Spring AOP framework, what are the joinpoint methods of the following pointcut",
   "options": [
@@ -4038,12 +4221,12 @@
   "subject": "Spring & Spring Boot",
   "section": "Java & Spring",
   "source": "CLOUD FSD Dumps",
-  "repeatCount": 2,
+  "repeatCount": 3,
   "fromRepeatedPaper": true,
   "recall": true
  },
  {
-  "id": "q-43025c3ab4",
+  "id": "q-96e034d8d9",
   "question": "Using the Spring AOP framework, what is the visibility of the method matched by the following join point? @Pointcut(\"execution(* *(..))\") private void anyOperation() {};",
   "options": [
    "Public methods",
@@ -4078,12 +4261,12 @@
   "subject": "Spring & Spring Boot",
   "section": "Java & Spring",
   "source": "CLOUD FSD Dumps",
-  "repeatCount": 2,
+  "repeatCount": 3,
   "fromRepeatedPaper": true,
   "recall": true
  },
  {
-  "id": "q-d4d1562e98",
+  "id": "q-190f16a077",
   "question": "Using the Spring AOP framework, what is the visibility of the method matches by the following join point? @Pointcut(\"execution(* *(..))\") private void anyOperation() {};",
   "options": [
    "Public methods",
@@ -4103,7 +4286,87 @@
   "recall": false
  },
  {
-  "id": "q-8c44a1e7a3",
+  "id": "q-92f0932206",
+  "question": "What are the different types of autowire?",
+  "options": [
+   "A point cut could select methods that have a custom annotation",
+   "bytype, byname, constructor, autodetect",
+   "Yes",
+   "B"
+  ],
+  "correct": [
+   1
+  ],
+  "explanation": "",
+  "subject": "Spring & Spring Boot",
+  "section": "Java & Spring",
+  "source": "Cloud FSD 2024 Feb-May paper",
+  "repeatCount": 1,
+  "fromRepeatedPaper": false,
+  "recall": true
+ },
+ {
+  "id": "q-096f1e87e7",
+  "question": "What are the unique correct answers about Spring AOP support?",
+  "options": [
+   "bytype, byname, constructor, autodetect",
+   "Using Spring Dependency injection",
+   "A point cut could select methods that have a custom annotation",
+   "Singleton"
+  ],
+  "correct": [
+   2
+  ],
+  "explanation": "",
+  "subject": "Spring & Spring Boot",
+  "section": "Java & Spring",
+  "source": "CLOUD FSD Dumps",
+  "repeatCount": 2,
+  "fromRepeatedPaper": true,
+  "recall": true
+ },
+ {
+  "id": "q-43704101e3",
+  "question": "What is default scope of bean in Spring framework?",
+  "options": [
+   "The execution of all public method",
+   "B",
+   "Singleton",
+   "JMS"
+  ],
+  "correct": [
+   2
+  ],
+  "explanation": "",
+  "subject": "Spring & Spring Boot",
+  "section": "Java & Spring",
+  "source": "Cloud FSD 2024 Feb-May paper",
+  "repeatCount": 1,
+  "fromRepeatedPaper": false,
+  "recall": true
+ },
+ {
+  "id": "q-e2b7d55610",
+  "question": "What is the Type of Proxy in Spring Framework?",
+  "options": [
+   "two",
+   "All of the Above",
+   "Yes",
+   "AOP proxies are created by Spring in order to implement the aspect contracts"
+  ],
+  "correct": [
+   0
+  ],
+  "explanation": "",
+  "subject": "Spring & Spring Boot",
+  "section": "Java & Spring",
+  "source": "CLOUD FSD Dumps",
+  "repeatCount": 2,
+  "fromRepeatedPaper": true,
+  "recall": true
+ },
+ {
+  "id": "q-d9468faba0",
   "question": "What is the name of the bean defined in the following configuration class? Select a single answer. @Configuration public class ApplicationConfig { @Autowired private DataSource dataSource; @Bean ClientRepository clientRepository() { ClientRepository accountRepository = new JpaClientRepository(); accountRepository.setDataSource(dataSource); return accountRepository; } }",
   "options": [
    "clientRepository",
@@ -4123,7 +4386,27 @@
   "recall": false
  },
  {
-  "id": "q-f9e0da2fbc",
+  "id": "q-18d97fd021",
+  "question": "What is the role of ApplicationContextAware in spring?",
+  "options": [
+   "Spring 3.0",
+   "bytype, byname, constructor, autodetect",
+   "Make a bean aware to the container.",
+   "ApplicationContext"
+  ],
+  "correct": [
+   2
+  ],
+  "explanation": "",
+  "subject": "Spring & Spring Boot",
+  "section": "Java & Spring",
+  "source": "CLOUD FSD Dumps",
+  "repeatCount": 2,
+  "fromRepeatedPaper": true,
+  "recall": true
+ },
+ {
+  "id": "q-f0c0ff54da",
   "question": "What the name of the bean defined in the following configuration class? Select a single answer. @Configuration public class ApplicationConfig { @Autowired private DataSource dataSource; @Bean ClientRepository clientRepository() { ClientRepository accountRepository = new JpaClientRepository(); accountRepository.setDataSource(dataSource); return accountRepository; } }",
   "options": [
    "clientRepository",
@@ -4141,6 +4424,86 @@
   "repeatCount": 2,
   "fromRepeatedPaper": true,
   "recall": false
+ },
+ {
+  "id": "q-b61e50a9fe",
+  "question": "When a bean has scope limited to HTTP session, that is called",
+  "options": [
+   "False",
+   "Singleton",
+   "Session scope",
+   "AOP proxies are created by Spring in order to implement the aspect contracts"
+  ],
+  "correct": [
+   2
+  ],
+  "explanation": "",
+  "subject": "Spring & Spring Boot",
+  "section": "Java & Spring",
+  "source": "CLOUD FSD Dumps",
+  "repeatCount": 2,
+  "fromRepeatedPaper": true,
+  "recall": true
+ },
+ {
+  "id": "q-665c77af56",
+  "question": "Which class represents the IoC container?",
+  "options": [
+   "bytype, byname, constructor, autodetect",
+   "ApplicationContext",
+   "Using Spring Dependency injection",
+   "With setter method and constructor argument both"
+  ],
+  "correct": [
+   1
+  ],
+  "explanation": "",
+  "subject": "Spring & Spring Boot",
+  "section": "Java & Spring",
+  "source": "CLOUD FSD Dumps",
+  "repeatCount": 2,
+  "fromRepeatedPaper": true,
+  "recall": true
+ },
+ {
+  "id": "q-daaef3d773",
+  "question": "Which is correct for Spring Framework?",
+  "options": [
+   "AOP proxies are created by Spring in order to implement the aspect contracts",
+   "The execution of all public method",
+   "False",
+   "Spring framework is a light-weight solution."
+  ],
+  "correct": [
+   3
+  ],
+  "explanation": "",
+  "subject": "Spring & Spring Boot",
+  "section": "Java & Spring",
+  "source": "CLOUD FSD Dumps",
+  "repeatCount": 2,
+  "fromRepeatedPaper": true,
+  "recall": true
+ },
+ {
+  "id": "q-5e738fbad8",
+  "question": "Which is the part of the Data Access layer in Spring Framework?",
+  "options": [
+   "bytype, byname, constructor, autodetect",
+   "two",
+   "JMS",
+   "Yes"
+  ],
+  "correct": [
+   2
+  ],
+  "explanation": "",
+  "subject": "Spring & Spring Boot",
+  "section": "Java & Spring",
+  "source": "CLOUD FSD Dumps",
+  "repeatCount": 2,
+  "fromRepeatedPaper": true,
+  "recall": true
  },
  {
   "id": "q-788e415934",
@@ -4180,12 +4543,12 @@
   "subject": "Spring & Spring Boot",
   "section": "Java & Spring",
   "source": "Spring Core, AOP, REST & DevOps paper",
-  "repeatCount": 1,
-  "fromRepeatedPaper": false,
+  "repeatCount": 2,
+  "fromRepeatedPaper": true,
   "recall": false
  },
  {
-  "id": "q-2f7143b026",
+  "id": "q-f4618ca885",
   "question": "Which of the following stands true for Spring beans? i. Spring beans are managed by the Spring IoC container. ii. Spring beans are instantiated, assembled, and otherwise managed by a Spring IoC container. iii. Spring beans are simple POJOs.",
   "options": [
    "B",
@@ -4200,29 +4563,9 @@
   "subject": "Spring & Spring Boot",
   "section": "Java & Spring",
   "source": "Cloud FSD 2024 Feb-May paper",
-  "repeatCount": 1,
-  "fromRepeatedPaper": false,
-  "recall": true
- },
- {
-  "id": "q-c3bebe8c03",
-  "question": "Which one is NOT a spring data MongoDB annotation ?",
-  "options": [
-   "@Document",
-   "@Field",
-   "@Entity",
-   "@Query."
-  ],
-  "correct": [
-   2
-  ],
-  "explanation": "",
-  "subject": "Spring & Spring Boot",
-  "section": "Java & Spring",
-  "source": "CLOUD FSD Dumps",
-  "repeatCount": 3,
+  "repeatCount": 2,
   "fromRepeatedPaper": true,
-  "recall": false
+  "recall": true
  },
  {
   "id": "q-973e098b51",
@@ -4240,8 +4583,28 @@
   "subject": "Spring & Spring Boot",
   "section": "Java & Spring",
   "source": "Cloud FSD 2024 Feb-May paper",
-  "repeatCount": 1,
-  "fromRepeatedPaper": false,
+  "repeatCount": 2,
+  "fromRepeatedPaper": true,
+  "recall": true
+ },
+ {
+  "id": "q-ba0d67d2a6",
+  "question": "Which one is the correct statement about AOP proxy?",
+  "options": [
+   "Yes",
+   "Using Spring Dependency injection",
+   "With setter method and constructor argument both",
+   "AOP proxies are created by Spring in order to implement the aspect contracts"
+  ],
+  "correct": [
+   3
+  ],
+  "explanation": "",
+  "subject": "Spring & Spring Boot",
+  "section": "Java & Spring",
+  "source": "CLOUD FSD Dumps",
+  "repeatCount": 2,
+  "fromRepeatedPaper": true,
   "recall": true
  },
  {
@@ -4260,8 +4623,8 @@
   "subject": "Spring & Spring Boot",
   "section": "Java & Spring",
   "source": "Spring Core, AOP, REST & DevOps paper",
-  "repeatCount": 1,
-  "fromRepeatedPaper": false,
+  "repeatCount": 2,
+  "fromRepeatedPaper": true,
   "recall": false
  },
  {
@@ -4386,6 +4749,26 @@
   "recall": false
  },
  {
+  "id": "q-240643f73c",
+  "question": "Which of the following codes will not throw an error?",
+  "options": [
+   "JSON.parse(\u201d);",
+   "JSON.parse(null);",
+   "JSON.parse();",
+   "JSON.parse({});"
+  ],
+  "correct": [
+   1
+  ],
+  "explanation": "",
+  "subject": "JSON",
+  "section": "Backend & Data",
+  "source": "CLOUD FSD Dumps",
+  "repeatCount": 3,
+  "fromRepeatedPaper": true,
+  "recall": false
+ },
+ {
   "id": "q-250366cbee",
   "question": "Identify the correct statement in MongoDB.",
   "options": [
@@ -4479,8 +4862,26 @@
   "subject": "MongoDB",
   "section": "Backend & Data",
   "source": "Cloud FSD 2024 Feb-May paper",
-  "repeatCount": 1,
-  "fromRepeatedPaper": false,
+  "repeatCount": 2,
+  "fromRepeatedPaper": true,
+  "recall": true
+ },
+ {
+  "id": "q-d294253649",
+  "question": "MongoDB database can be accessed using Spring Data.",
+  "options": [
+   "True",
+   "False"
+  ],
+  "correct": [
+   0
+  ],
+  "explanation": "",
+  "subject": "MongoDB",
+  "section": "Backend & Data",
+  "source": "Cloud FSD 2024 Feb-May paper",
+  "repeatCount": 2,
+  "fromRepeatedPaper": true,
   "recall": true
  },
  {
@@ -4523,6 +4924,25 @@
   "recall": false
  },
  {
+  "id": "q-cb7ffe29c1",
+  "question": "What is the command used to create a new item when using mongoose?",
+  "options": [
+   "Book.Save()",
+   "Book.New()",
+   "Book.Create()"
+  ],
+  "correct": [
+   0
+  ],
+  "explanation": "",
+  "subject": "MongoDB",
+  "section": "Backend & Data",
+  "source": "CLOUD FSD Dumps",
+  "repeatCount": 3,
+  "fromRepeatedPaper": true,
+  "recall": false
+ },
+ {
   "id": "q-b721192c4b",
   "question": "What is the equivalent of the following SQL command in MongoDB? UPDATE user SET email = \u2018NA\u2019 WHERE age < 18",
   "options": [
@@ -4543,7 +4963,26 @@
   "recall": false
  },
  {
-  "id": "q-e335547674",
+  "id": "q-e3c8f0e0fa",
+  "question": "What is the mongoose command used to delete an item?",
+  "options": [
+   "delete()",
+   "trash()",
+   "remove()"
+  ],
+  "correct": [
+   2
+  ],
+  "explanation": "",
+  "subject": "MongoDB",
+  "section": "Backend & Data",
+  "source": "CLOUD FSD Dumps",
+  "repeatCount": 3,
+  "fromRepeatedPaper": true,
+  "recall": false
+ },
+ {
+  "id": "q-ff7408de8b",
   "question": "What is the output of this program? import java.util.*; class Collection_Algos { public static void main(String args[]) { LinkedList list = new LinkedList(); list.add(new Integer(2)); list.add(new Integer(8)); list.add(new Integer(5)); list.add(new Integer(1)); Iterator i = list.iterator(); Collections.reverse(list); Collections.shuffle(list); while(i.hasNext()) System.out.print(i.next() + \" \"); } }",
   "options": [
    "2 8 5 1",
@@ -4558,7 +4997,27 @@
   "subject": "MongoDB",
   "section": "Backend & Data",
   "source": "CLOUD FSD Dumps",
-  "repeatCount": 7,
+  "repeatCount": 4,
+  "fromRepeatedPaper": true,
+  "recall": false
+ },
+ {
+  "id": "q-8e3ade16e4",
+  "question": "What is the output of this program? import java.util.*; class Collection_Algos { public static void main(String args[]) { LinkedList list = new LinkedList(); list.add(new Integer(2)); list.add(new Integer(8)); list.add(new Integer(5)); list.add(new Integer(1)); Iterator i = list.iterator(); Collections.reverse(list); Collections.sort(list); while(i.hasNext()) System.out.print(i.next() + \" \"); } }",
+  "options": [
+   "2 8 5 1",
+   "1 5 8 2",
+   "1 2 5 8",
+   "2 1 8 5"
+  ],
+  "correct": [
+   2
+  ],
+  "explanation": "",
+  "subject": "MongoDB",
+  "section": "Backend & Data",
+  "source": "CLOUD FSD Dumps",
+  "repeatCount": 3,
   "fromRepeatedPaper": true,
   "recall": false
  },
@@ -4581,6 +5040,46 @@
   "repeatCount": 3,
   "fromRepeatedPaper": true,
   "recall": false
+ },
+ {
+  "id": "q-fa5150680c",
+  "question": "What is true about <list> collection configuration elements?",
+  "options": [
+   "True",
+   "C @Entity",
+   "capped-->opn D",
+   "wiring list of values and allowing duplicates."
+  ],
+  "correct": [
+   3
+  ],
+  "explanation": "",
+  "subject": "MongoDB",
+  "section": "Backend & Data",
+  "source": "Cloud FSD 2024 Feb-May paper",
+  "repeatCount": 1,
+  "fromRepeatedPaper": false,
+  "recall": true
+ },
+ {
+  "id": "q-8fe5c317dc",
+  "question": "What method is used to remove a single item from a MongoDB collection?",
+  "options": [
+   "C @Entity",
+   "True",
+   ". opn A",
+   "deleteOne()"
+  ],
+  "correct": [
+   3
+  ],
+  "explanation": "",
+  "subject": "MongoDB",
+  "section": "Backend & Data",
+  "source": "Cloud FSD 2024 Feb-May paper",
+  "repeatCount": 1,
+  "fromRepeatedPaper": false,
+  "recall": true
  },
  {
   "id": "q-1400b34425",
@@ -4664,6 +5163,26 @@
   "recall": false
  },
  {
+  "id": "q-c3bebe8c03",
+  "question": "Which one is NOT a spring data MongoDB annotation ?",
+  "options": [
+   "@Document",
+   "@Field",
+   "@Entity",
+   "@Query."
+  ],
+  "correct": [
+   2
+  ],
+  "explanation": "",
+  "subject": "MongoDB",
+  "section": "Backend & Data",
+  "source": "CLOUD FSD Dumps",
+  "repeatCount": 3,
+  "fromRepeatedPaper": true,
+  "recall": false
+ },
+ {
   "id": "q-f7db6e9213",
   "question": "A data binding has these four parts:",
   "options": [
@@ -4680,6 +5199,26 @@
   "section": "Backend & Data",
   "source": "CLOUD FSD Dumps",
   "repeatCount": 2,
+  "fromRepeatedPaper": true,
+  "recall": false
+ },
+ {
+  "id": "q-995f0e5766",
+  "question": "Annotation which allows a controller\u2019s field to be assigned using Spring Expression Language(SpEL)",
+  "options": [
+   "@Value",
+   "@After",
+   "@Default",
+   "@None"
+  ],
+  "correct": [
+   0
+  ],
+  "explanation": "",
+  "subject": "Node & Express",
+  "section": "Backend & Data",
+  "source": "CLOUD FSD Dumps",
+  "repeatCount": 4,
   "fromRepeatedPaper": true,
   "recall": false
  },
@@ -4703,7 +5242,7 @@
   "recall": false
  },
  {
-  "id": "q-f0164c1af4",
+  "id": "q-70b873a63c",
   "question": "Considering 2 classes AccountServiceImpl and ClientServiceImpl. Any of these 2 classes inherits from each other. What is the result of the following pointcut expression? execution(* *..AccountServiceImpl.update(..)) && execution(* *..ClientServiceImpl.update(..))",
   "options": [
    "No joint point is defined",
@@ -4723,6 +5262,26 @@
   "recall": false
  },
  {
+  "id": "q-355059ec03",
+  "question": "Data bindings are applied as . . . . . . . . or as special sequences of characters in strings.",
+  "options": [
+   "expressions",
+   "attributes on HTML elements",
+   "elements itself",
+   "none of above"
+  ],
+  "correct": [
+   1
+  ],
+  "explanation": "",
+  "subject": "Node & Express",
+  "section": "Backend & Data",
+  "source": "CLOUD FSD Dumps",
+  "repeatCount": 2,
+  "fromRepeatedPaper": true,
+  "recall": false
+ },
+ {
   "id": "q-b23e0e1b43",
   "question": "Running \"npm init\" will...",
   "options": [
@@ -4732,6 +5291,26 @@
   ],
   "correct": [
    0
+  ],
+  "explanation": "",
+  "subject": "Node & Express",
+  "section": "Backend & Data",
+  "source": "CLOUD FSD Dumps",
+  "repeatCount": 3,
+  "fromRepeatedPaper": true,
+  "recall": false
+ },
+ {
+  "id": "q-81627593ee",
+  "question": "The JSX pre-processor is packaged as a",
+  "options": [
+   "dynamic link library",
+   "Nuget package",
+   "Gem",
+   "npm module"
+  ],
+  "correct": [
+   3
   ],
   "explanation": "",
   "subject": "Node & Express",
@@ -4761,34 +5340,36 @@
   "recall": false
  },
  {
-  "id": "q-cb7ffe29c1",
-  "question": "What is the command used to create a new item when using mongoose?",
+  "id": "q-f4e6ec7992",
+  "question": "What is a function in JavaScript?",
   "options": [
-   "Book.Save()",
-   "Book.New()",
-   "Book.Create()"
+   "An instance of a class",
+   "A statement that evaluates an expression",
+   "A block of organized, reusable code that performs a single action",
+   "Code that allows us to write loops"
   ],
   "correct": [
-   0
+   2
   ],
   "explanation": "",
   "subject": "Node & Express",
   "section": "Backend & Data",
   "source": "CLOUD FSD Dumps",
-  "repeatCount": 3,
+  "repeatCount": 2,
   "fromRepeatedPaper": true,
   "recall": false
  },
  {
-  "id": "q-e3c8f0e0fa",
-  "question": "What is the mongoose command used to delete an item?",
+  "id": "q-939771ea01",
+  "question": "What is the module for Node that allows you to run a web server?",
   "options": [
-   "delete()",
-   "trash()",
-   "remove()"
+   "Sublime",
+   "REST",
+   "FS",
+   "HTTP"
   ],
   "correct": [
-   2
+   3
   ],
   "explanation": "",
   "subject": "Node & Express",
@@ -4811,6 +5392,45 @@
   "correct": [
    2,
    3
+  ],
+  "explanation": "",
+  "subject": "Node & Express",
+  "section": "Backend & Data",
+  "source": "CLOUD FSD Dumps",
+  "repeatCount": 2,
+  "fromRepeatedPaper": true,
+  "recall": false
+ },
+ {
+  "id": "q-5c27c4aff1",
+  "question": "Which is the proper syntax to make sessionTemplate available by name from a JavaScript module?",
+  "options": [
+   "export function sessionTemplate(sessions) {...}",
+   "export default function sessionTemplate(sessions) {...}",
+   "module.exports = function sessionTemplate(sessions) {...}",
+   "require function sessionTemplate(sessions) {...}"
+  ],
+  "correct": [
+   0
+  ],
+  "explanation": "",
+  "subject": "Node & Express",
+  "section": "Backend & Data",
+  "source": "CLOUD FSD Dumps",
+  "repeatCount": 2,
+  "fromRepeatedPaper": true,
+  "recall": false
+ },
+ {
+  "id": "q-456362a372",
+  "question": "Which of the following are automation tools?",
+  "options": [
+   "Gulp",
+   "JSX",
+   "Express"
+  ],
+  "correct": [
+   0
   ],
   "explanation": "",
   "subject": "Node & Express",
@@ -4922,7 +5542,7 @@
   "recall": false
  },
  {
-  "id": "q-c4111d7030",
+  "id": "q-c5ad409620",
   "question": "What does it mean by publishing a REST service in Spring ? i. Publishing an application\u2019s data as Json over a REST service. ii.Publishing an application\u2019s data as XML over a REST service. Iii. Sharing Database within two microservices using Spring Data Access Object (DAO).",
   "options": [
    "Only 1",
@@ -4962,27 +5582,7 @@
   "recall": false
  },
  {
-  "id": "q-939771ea01",
-  "question": "What is the module for Node that allows you to run a web server?",
-  "options": [
-   "Sublime",
-   "REST",
-   "FS",
-   "HTTP"
-  ],
-  "correct": [
-   3
-  ],
-  "explanation": "",
-  "subject": "REST & Web Services",
-  "section": "Backend & Data",
-  "source": "CLOUD FSD Dumps",
-  "repeatCount": 3,
-  "fromRepeatedPaper": true,
-  "recall": false
- },
- {
-  "id": "q-7b1633ddb3",
+  "id": "q-faefa891f3",
   "question": "What is the output of this program? import java.util.*; class Maps { public static void main(String args[]) { TreeMap obj = new TreeMap(); obj.put(\"A\", new Integer(1)); obj.put(\"B\", new Integer(2)); obj.put(\"C\", new Integer(3)); System.out.println(obj.entrySet()); } }",
   "options": [
    "[A, B, C]",
@@ -5021,7 +5621,7 @@
   "recall": false
  },
  {
-  "id": "q-daf2a56c6a",
+  "id": "q-03d0137a8e",
   "question": "Which of the following is true regarding the below Spring controller? @RestController public class OwnerController { @RequestMapping(value = \"/owner/{ownerId}\", method = RequestMethod.POST) @ResponseBody public Owner findOwner(@PathVariable(\"ownerId\") int ownerId) { return new Owner(); } }",
   "options": [
    "RequestMethod.GET method is more accurate than POST",
@@ -5117,7 +5717,7 @@
   "subject": "SQL & Data",
   "section": "Backend & Data",
   "source": "CLOUD FSD Dumps",
-  "repeatCount": 2,
+  "repeatCount": 3,
   "fromRepeatedPaper": true,
   "recall": true
  },
@@ -5143,7 +5743,7 @@
   "recall": false
  },
  {
-  "id": "q-ab3aa719f9",
+  "id": "q-9ee4fb8e3c",
   "question": "Using JdbcTemplate, what is the Spring provided class you will use for result set parsing and merging rows into a single object? Select a unique answer.",
   "options": [
    "ResultSetExtractor",
@@ -5226,6 +5826,26 @@
   "recall": false
  },
  {
+  "id": "q-41fe423249",
+  "question": "What is an after returning advice? Select a unique answer.",
+  "options": [
+   "Advice to be executed after a join point completes without throwing an exception",
+   "An action taken by an aspect at a particular join point",
+   "void com.test.service.MyServiceImpl#transfert(Money amount)",
+   "C"
+  ],
+  "correct": [
+   0
+  ],
+  "explanation": "",
+  "subject": "SQL & Data",
+  "section": "Backend & Data",
+  "source": "CLOUD FSD Dumps",
+  "repeatCount": 2,
+  "fromRepeatedPaper": true,
+  "recall": true
+ },
+ {
   "id": "q-67c8e2ff56",
   "question": "Which class indicates a dropdown menu? a) .dropdown-list b) .select c) .dropdown",
   "options": [
@@ -5241,8 +5861,8 @@
   "subject": "SQL & Data",
   "section": "Backend & Data",
   "source": "Cloud FSD 2024 Feb-May paper",
-  "repeatCount": 1,
-  "fromRepeatedPaper": false,
+  "repeatCount": 2,
+  "fromRepeatedPaper": true,
   "recall": true
  },
  {
@@ -5261,8 +5881,8 @@
   "subject": "SQL & Data",
   "section": "Backend & Data",
   "source": "Cloud FSD 2024 Feb-May paper",
-  "repeatCount": 1,
-  "fromRepeatedPaper": false,
+  "repeatCount": 2,
+  "fromRepeatedPaper": true,
   "recall": true
  },
  {
@@ -5324,7 +5944,7 @@
   "recall": false
  },
  {
-  "id": "q-9c12286ab9",
+  "id": "q-ad0b8c4c75",
   "question": "Which of the following statements is true about microservices architecture ? i. Microservices applications are required to be deployed on the same physical host. ii. Microservices architecture supports high availability of individual microservices. iii. Microservices cannot be used if a company is embracing DevOps. iv. Microservices are designed using a bounded context that can communicate with other bounded contexts.",
   "options": [
    "Only i",
@@ -5364,6 +5984,64 @@
   "recall": false
  },
  {
+  "id": "q-2d9015878d",
+  "question": "Can the class which spring container makes subclass be final?",
+  "options": [
+   ".Container",
+   "True",
+   "wer:D",
+   "No"
+  ],
+  "correct": [
+   3
+  ],
+  "explanation": "",
+  "subject": "Docker & Kubernetes",
+  "section": "DevOps & Cloud",
+  "source": "CLOUD FSD Dumps",
+  "repeatCount": 2,
+  "fromRepeatedPaper": true,
+  "recall": true
+ },
+ {
+  "id": "q-18d5f8b5be",
+  "question": "Expression Language is the part of Core Container in Spring Framework.",
+  "options": [
+   "True",
+   "False"
+  ],
+  "correct": [
+   0
+  ],
+  "explanation": "None",
+  "subject": "Docker & Kubernetes",
+  "section": "DevOps & Cloud",
+  "source": "CLOUD FSD Dumps",
+  "repeatCount": 3,
+  "fromRepeatedPaper": true,
+  "recall": false
+ },
+ {
+  "id": "q-f82313dfa3",
+  "question": "How to handle shut down of IoC containers? A - Using shutdownHook() B - Using shutdownHandler() C - Using registerHook() D - Using registerShutdownHook()",
+  "options": [
+   "wer:D",
+   "The execution of all public method",
+   "Session scope",
+   "Public methods"
+  ],
+  "correct": [
+   0
+  ],
+  "explanation": "",
+  "subject": "Docker & Kubernetes",
+  "section": "DevOps & Cloud",
+  "source": "Cloud FSD 2024 Feb-May paper",
+  "repeatCount": 2,
+  "fromRepeatedPaper": true,
+  "recall": true
+ },
+ {
   "id": "q-c57ecb9666",
   "question": "The purpose of the @Output decorator in a nested component is to:",
   "options": [
@@ -5381,6 +6059,26 @@
   "repeatCount": 2,
   "fromRepeatedPaper": true,
   "recall": false
+ },
+ {
+  "id": "q-c5f1563907",
+  "question": "Which of the following class in Bootstrap is used to provide a responsive fixed width container?",
+  "options": [
+   "True",
+   ".Container",
+   "No",
+   "wer:D"
+  ],
+  "correct": [
+   1
+  ],
+  "explanation": "",
+  "subject": "Docker & Kubernetes",
+  "section": "DevOps & Cloud",
+  "source": "Cloud FSD 2024 Feb-May paper",
+  "repeatCount": 1,
+  "fromRepeatedPaper": false,
+  "recall": true
  },
  {
   "id": "q-1f56537a10",
@@ -5440,6 +6138,26 @@
   "source": "CloudFSD 2024 Feb-May paper",
   "repeatCount": 1,
   "fromRepeatedPaper": false,
+  "recall": false
+ },
+ {
+  "id": "q-d5bc7532e9",
+  "question": "How do you remove local (untracked) files and directories from the current Git working tree? i. git clean -f ii. git delete -f iii. git remove -f -d iv. git add --all v. git reset --hard HEAD",
+  "options": [
+   "Only i",
+   "Only ii and iii",
+   "Only i and iv",
+   "All of the above. PREV BATCH FSD QUESTIONS :-"
+  ],
+  "correct": [
+   0
+  ],
+  "explanation": "",
+  "subject": "Git & CI/CD",
+  "section": "DevOps & Cloud",
+  "source": "CLOUD FSD Dumps",
+  "repeatCount": 2,
+  "fromRepeatedPaper": true,
   "recall": false
  },
  {
@@ -5681,7 +6399,7 @@
   "recall": false
  },
  {
-  "id": "q-268dc7dc93",
+  "id": "q-21e204fdab",
   "question": "A team of programmers is involved in reviewing a proposed design for a new utility class. After some discussion, they realize that the current design allows other classes to access methods in the utility class that should be accessible only to methods within the utility class itself. What design issue has the team discovered?",
   "options": [
    "Tight coupling",
@@ -5748,8 +6466,8 @@
   "subject": "Mixed Practice",
   "section": "Mixed Practice",
   "source": "Cloud FSD 2024 Feb-May paper",
-  "repeatCount": 1,
-  "fromRepeatedPaper": false,
+  "repeatCount": 2,
+  "fromRepeatedPaper": true,
   "recall": true
  },
  {
@@ -5828,8 +6546,8 @@
   "subject": "Mixed Practice",
   "section": "Mixed Practice",
   "source": "Cloud FSD 2024 Feb-May paper",
-  "repeatCount": 1,
-  "fromRepeatedPaper": false,
+  "repeatCount": 2,
+  "fromRepeatedPaper": true,
   "recall": true
  },
  {
@@ -5868,7 +6586,7 @@
   "subject": "Mixed Practice",
   "section": "Mixed Practice",
   "source": "CLOUD FSD Dumps",
-  "repeatCount": 2,
+  "repeatCount": 3,
   "fromRepeatedPaper": true,
   "recall": true
  },
@@ -5927,8 +6645,8 @@
   "subject": "Mixed Practice",
   "section": "Mixed Practice",
   "source": "Cloud FSD 2024 Feb-May paper",
-  "repeatCount": 1,
-  "fromRepeatedPaper": false,
+  "repeatCount": 2,
+  "fromRepeatedPaper": true,
   "recall": true
  },
  {
@@ -6064,8 +6782,8 @@
   "subject": "Mixed Practice",
   "section": "Mixed Practice",
   "source": "Cloud FSD 2024 Feb-May paper",
-  "repeatCount": 1,
-  "fromRepeatedPaper": false,
+  "repeatCount": 2,
+  "fromRepeatedPaper": true,
   "recall": true
  },
  {
@@ -6084,8 +6802,8 @@
   "subject": "Mixed Practice",
   "section": "Mixed Practice",
   "source": "Cloud FSD 2024 Feb-May paper",
-  "repeatCount": 1,
-  "fromRepeatedPaper": false,
+  "repeatCount": 2,
+  "fromRepeatedPaper": true,
   "recall": true
  },
  {
@@ -6142,8 +6860,8 @@
   "subject": "Mixed Practice",
   "section": "Mixed Practice",
   "source": "Cloud FSD 2024 Feb-May paper",
-  "repeatCount": 1,
-  "fromRepeatedPaper": false,
+  "repeatCount": 2,
+  "fromRepeatedPaper": true,
   "recall": true
  },
  {
@@ -6303,8 +7021,8 @@
   "subject": "Mixed Practice",
   "section": "Mixed Practice",
   "source": "Cloud FSD 2024 Feb-May paper",
-  "repeatCount": 1,
-  "fromRepeatedPaper": false,
+  "repeatCount": 2,
+  "fromRepeatedPaper": true,
   "recall": true
  },
  {
@@ -6549,7 +7267,27 @@
   "recall": false
  },
  {
-  "id": "q-e68f627958",
+  "id": "q-7a9a7f51b5",
+  "question": "What is used to dispatch requests to the WEB Application? i. DispatchherServlet. ii. ViewHandler. iii. ViewResolver.",
+  "options": [
+   "B",
+   "wer: a",
+   "D",
+   "A"
+  ],
+  "correct": [
+   3
+  ],
+  "explanation": "",
+  "subject": "Mixed Practice",
+  "section": "Mixed Practice",
+  "source": "Cloud FSD 2024 Feb-May paper",
+  "repeatCount": 1,
+  "fromRepeatedPaper": false,
+  "recall": true
+ },
+ {
+  "id": "q-84d96602ff",
   "question": "What syntax allows for a variable number of arguments to a function where the arguments are passed as an array? function([]numbers) { } function(*numbers) { } function(...numbers) { } function(numbers[]) { }",
   "options": [
    "d",
@@ -6564,8 +7302,8 @@
   "subject": "Mixed Practice",
   "section": "Mixed Practice",
   "source": "Cloud FSD 2024 Feb-May paper",
-  "repeatCount": 1,
-  "fromRepeatedPaper": false,
+  "repeatCount": 2,
+  "fromRepeatedPaper": true,
   "recall": true
  },
  {
@@ -6744,7 +7482,7 @@
   "recall": false
  },
  {
-  "id": "q-abe1a1e974",
+  "id": "q-fcb35f373f",
   "question": "Which of the following media queries would apply to a tablet reporting a screen width of 768px? A.@media only screen and (min-width: 1140px){} B.@media only screen and (min-width: 641px){} C.@media only screen and (max-width: 1140px){}",
   "options": [
    "B",
@@ -6759,8 +7497,8 @@
   "subject": "Mixed Practice",
   "section": "Mixed Practice",
   "source": "Cloud FSD 2024 Feb-May paper",
-  "repeatCount": 1,
-  "fromRepeatedPaper": false,
+  "repeatCount": 2,
+  "fromRepeatedPaper": true,
   "recall": true
  },
  {
@@ -6838,8 +7576,8 @@
   "subject": "Mixed Practice",
   "section": "Mixed Practice",
   "source": "Cloud FSD 2024 Feb-May paper",
-  "repeatCount": 1,
-  "fromRepeatedPaper": false,
+  "repeatCount": 2,
+  "fromRepeatedPaper": true,
   "recall": true
  },
  {
@@ -7003,8 +7741,8 @@
   "subject": "Mixed Practice",
   "section": "Mixed Practice",
   "source": "Cloud FSD 2024 Feb-May paper",
-  "repeatCount": 1,
-  "fromRepeatedPaper": false,
+  "repeatCount": 2,
+  "fromRepeatedPaper": true,
   "recall": true
  }
 ]
